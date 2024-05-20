@@ -22,9 +22,9 @@ Rentify is a web application designed to simplify the process of renting propert
 
 ### Prerequisites
 
-- .NET SDK (version X.X or later)
-- Node.js and npm (version X.X or later)
-- Angular CLI (version X.X or later)
+- .NET SDK (version 6)
+- Node.js and npm
+- Angular CLI 
 - SQL Server
 
 ### Cloning the Repository
